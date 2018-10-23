@@ -1,0 +1,63 @@
+high_quality=1
+subtitle_type="render"
+border=100
+sharpen=1
+widescreen=1
+subtitle_font_size=20
+subtitle_location_x=0
+subtitle_location_y=60
+subtitle_color="black"
+subtitle_outline_color="white"
+/var/www/html/project/extra/audio.mp3:1
+background:0::/var/www/html/project/extra/background.jpeg
+background:1
+fadein:1
+title:4:Best Books to Build\nMachine Learning Models with\nTensorFlow 
+crossfade:1
+/var/www/html/project/temp_data/intro.png:5
+crossfade:1
+/var/www/html/project/temp_data/r7.jpeg:2
+crossfade:1
+/var/www/html/project/temp_data/i7.jpeg:4:TensorFlow for Deep Learning\: From Linear Regression to Reinforcement Learning:
+crossfade:1
+/var/www/html/project/temp_data/t7.png:6
+crossfade:1
+/var/www/html/project/temp_data/r6.jpeg:2
+crossfade:1
+/var/www/html/project/temp_data/i6.jpeg:4:Pro Deep Learning with TensorFlow\: A Mathematical Approach to Advanced Artificial Intelligence in Python:
+crossfade:1
+/var/www/html/project/temp_data/t6.png:6
+crossfade:1
+/var/www/html/project/temp_data/r5.jpeg:2
+crossfade:1
+/var/www/html/project/temp_data/i5.jpeg:4:Mastering TensorFlow:
+crossfade:1
+/var/www/html/project/temp_data/t5.png:6
+crossfade:1
+/var/www/html/project/temp_data/r4.jpeg:2
+crossfade:1
+/var/www/html/project/temp_data/i4.jpeg:4:Learning TensorFlow\: A Guide to Building Deep Learning Systems:
+crossfade:1
+/var/www/html/project/temp_data/t4.png:6
+crossfade:1
+/var/www/html/project/temp_data/r3.jpeg:2
+crossfade:1
+/var/www/html/project/temp_data/i3.jpeg:4:TensorFlow for Machine Intelligence\: A Hands-On Introduction to Learning Algorithms:
+crossfade:1
+/var/www/html/project/temp_data/t3.png:6
+crossfade:1
+/var/www/html/project/temp_data/r2.jpeg:2
+crossfade:1
+/var/www/html/project/temp_data/i2.jpeg:4:TensorFlow Machine Learning Cookbook:
+crossfade:1
+/var/www/html/project/temp_data/t2.png:6
+crossfade:1
+/var/www/html/project/temp_data/r1.jpeg:2
+crossfade:1
+/var/www/html/project/temp_data/i1.jpeg:4:Hands-On Machine Learning with Scikit-Learn and TensorFlow\: Concepts, Tools, and Techniques to Build Intelligent Systems:
+crossfade:1
+/var/www/html/project/temp_data/t1.png:6
+crossfade:1
+/var/www/html/project/temp_data/conc.png:6
+fadeout:1
+exit
